@@ -1,0 +1,46 @@
+_id: req_d060406548074786a0c15f22ca755abc
+type: Request
+parentId: fld_54fe099a7dc249a18a6983a3ec38d272
+modified: 1727317584902
+created: 1726110811647
+url: http://192.168.5.27:33332/api/base/rfidPrint/192-168-200-250
+name: 打印机测试
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    [{
+    	"bookName": "习近平新时代中国特色社会主义思想概论（2024年）",
+    	"author": "张三",
+    	"version": "第2版",
+    	"publisher": "人民文学出版社",
+    	"bookNO": "LS0100000010"
+    }, {
+    	"bookName": "概率论与数理统计人工智能RFTG-008理论的基础terat算法研究概率论与数理统计beraty-SWER",
+    	"author": "李四",
+    	"version": "第(3)版",
+    	"publisher": "人民文学出版社",
+    	"bookNO": "YW0100000011"
+    }, {
+    	"bookName": "大学语文（一）中国古代官职文化演变文化常识ERTBERT-ALL@普通军校专用版2024",
+    	"author": "王五",
+    	"version": "第二版",
+    	"publisher": "高等教育出版社",
+    	"bookNO": "YW0100000012"
+    }]
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+authentication: {}
+metaSortKey: -1727317580673
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

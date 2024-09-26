@@ -1,0 +1,35 @@
+_id: req_93d9b76e730f4e739e298f8b83360a31
+type: Request
+parentId: fld_f8cbe04fa3ba484caadcc501bb8f15cd
+modified: 1727317639597
+created: 1715841269943
+url: 192.168.15.112:9927/user
+name: 喻珊提供的接口
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"data": [{
+    			"imgPath": "/datacenter/sdxt/preset/YUSHI-001/1/20240516135527/20240513122143.jpg"
+    		},
+    		{
+    			"imgPath": "/datacenter/sdxt/DayLight/YUSHI-001/1/20240511/20240511103837.jpg"
+    		}
+    	]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6136fbbf9d5c49f5916dc36e7a532d7c
+authentication: {}
+metaSortKey: -1727317636698
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

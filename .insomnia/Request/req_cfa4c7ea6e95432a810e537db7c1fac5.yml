@@ -1,0 +1,27 @@
+_id: req_cfa4c7ea6e95432a810e537db7c1fac5
+type: Request
+parentId: fld_f8cbe04fa3ba484caadcc501bb8f15cd
+modified: 1727317636839
+created: 1715846592036
+url: http://192.168.200.155:8080/comp/callPresetComp1
+name: 测试喻珊接口
+description: ""
+method: POST
+body: {}
+parameters:
+  - id: pair_7b6475428d9a4456b25b3a53c155c33a
+    name: ""
+    value: ""
+    description: ""
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+authentication: {}
+metaSortKey: -1727317636798
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

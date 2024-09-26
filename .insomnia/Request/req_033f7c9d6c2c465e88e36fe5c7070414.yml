@@ -1,0 +1,28 @@
+_id: req_033f7c9d6c2c465e88e36fe5c7070414
+type: Request
+parentId: fld_5f3850c9488d4b3494782f942d549b8e
+modified: 1727317545278
+created: 1727234293196
+url: http://192.168.200.249:9001/app/GetDeviceData?groupId=d8857b5c80f04f0985df4a798d23a03e&userId=2
+name: 传感器-温湿度-实时数据
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+    id: pair_ea22a8b5b989472286598b96f06245bd
+  - id: pair_9ca04581ca4949349a748ff06167ffff
+    name: userId
+    value: "2"
+    description: ""
+authentication: {}
+metaSortKey: -1727317518598
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

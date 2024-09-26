@@ -1,0 +1,33 @@
+_id: req_b1e0a3597f1948879da547f4c35bcf9e
+type: Request
+parentId: fld_5f3850c9488d4b3494782f942d549b8e
+modified: 1727317552514
+created: 1727234929203
+url: http://192.168.200.249:9001/app/QueryHistoryList?deviceKey=40341410_20&nodeId=20&beginTime=2024-09-25
+  20:00:00&endTime=2024-09-26 09:00:00&isAlarmData=-1
+name: 传感器-设备历史数据
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+    id: pair_8129132ea319413898ec691d78d50a29
+  - id: pair_379ed3dcb22140ddbf109f287e994fdd
+    name: userId
+    value: "2"
+    description: ""
+authentication: {}
+metaSortKey: -1727317518498
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

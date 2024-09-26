@@ -1,0 +1,31 @@
+_id: req_f14aad27ac7f4069a9b86f7ba03c2fd3
+type: Request
+parentId: fld_54fe099a7dc249a18a6983a3ec38d272
+modified: 1727317580816
+created: 1727058345118
+url: http://j8akfd.natappfree.cc/api/store/bookStat
+name: 安全门查询状态
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_2c90502e97c9449ca086061b29912ec5
+      name: bookNO
+      value: 1250001,1250002,1250003
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+authentication: {}
+metaSortKey: -1727317580773
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

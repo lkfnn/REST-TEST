@@ -1,0 +1,33 @@
+_id: req_4802f2cb41e2443da1c19f61ea7e15dd
+type: Request
+parentId: fld_5f3850c9488d4b3494782f942d549b8e
+modified: 1727317523255
+created: 1727229736883
+url: http://192.168.200.249:9001/app/Login
+name: 传感器-登录
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "loginName":"master",
+      "password":"master"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9c065a6931514d4bbc69885233c16763
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+    id: pair_1e87847311094f1c88bd5e93aa6ed1e4
+authentication: {}
+metaSortKey: -1727317518898
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

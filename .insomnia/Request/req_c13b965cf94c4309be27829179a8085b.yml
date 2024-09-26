@@ -1,0 +1,28 @@
+_id: req_c13b965cf94c4309be27829179a8085b
+type: Request
+parentId: fld_5f3850c9488d4b3494782f942d549b8e
+modified: 1727317530699
+created: 1727231475500
+url: http://192.168.200.249:9001/app/GetUserDeviceGroups
+name: 传感器-获取设备分组
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+    id: pair_64009eb42ef64a2fac7483be04a0c35e
+  - id: pair_e260b4a7506d4adabf6c42552258290e
+    name: userId
+    value: "2"
+    description: ""
+authentication: {}
+metaSortKey: -1727317518798
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

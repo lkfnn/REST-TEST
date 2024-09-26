@@ -1,0 +1,32 @@
+_id: req_66d7727956df4807ae77865d8bc4ead5
+type: Request
+parentId: fld_5f3850c9488d4b3494782f942d549b8e
+modified: 1727317538758
+created: 1727232191732
+url: http://192.168.200.249:9001/app/GetDeviceData?groupId=56cbdf82e4664f7691e5f9a6802d62a5&userId=2
+name: 传感器-烟感-实时数据
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+  params: []
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+  - name: User-Agent
+    value: Insomnia/2023.5.6
+    id: pair_7912e3bc60784b22992b3e10d657c00c
+  - id: pair_ec7ac76493e84f4eb5e23f920a96d8d1
+    name: userId
+    value: "2"
+    description: ""
+authentication: {}
+metaSortKey: -1727317518698
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
